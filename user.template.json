@@ -1,0 +1,11 @@
+{
+  "game": {
+    "guesses": [],
+    "wordleNum": 0,
+    "state": "new"
+  },
+  "history": {
+    "games": [
+    ]
+  }
+}
